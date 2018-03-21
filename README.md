@@ -10,8 +10,8 @@ This project is the result of another research project in which I am currently w
 I am currently looking for translators who can volunteer to translate in the following combinations EN>ES_CR and ES_CR>EN. 
 See, translators are key elements in the chain of this process. As I said before, machine translation cannot be possible without translators, who are the creators of bitexts and who have the proper academic background to say what is a translation and what is not.
 
-# How to join?
-You can join my project! Contact me glori.cocozza@gmail.com
+# How to contribute?
+You can join my project! Contact me at glori.cocozza@gmail.com
 Bear in mind that I am also a student. Thus, I cannot pay you. However, I can guarantee you that this is a win-win situation. By translating for this project, you will be helping me elaborate the necessary instruments for my research project. Also, by volunteering your time and effort, you will gain experience in the so called "localization industry." You can add to your resume not only this valuable experience, but also the fact that you have worked in a localization environment such as the platform Crowdin.
 
 # Steps to get started
